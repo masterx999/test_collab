@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-hello nice 
-=======
+hello nice
 rdyrdyrrdedr
->>>>>>> fc124936874f921d0b5c4103c4b531b53ea21fe1
